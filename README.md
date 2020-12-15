@@ -2,4 +2,4 @@
 Meu curiculum em html
 My resume in html
 
-see at: https;//cassioneto.ml/
+see at: https://cassioneto.ml/
